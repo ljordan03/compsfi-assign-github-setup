@@ -11,3 +11,7 @@ git version 2.51.0.windows.1
 user.name=Larry Jordan
 user.email=ljordan88@student.ccc.edu
 core.autocrlf=true
+## Part C - Deliverable C (Authentication)
+used GitHub Codespaces due to restrictions
+successfully pushed commit from branch 'codespace-proof' on 08/23/2025
+Pull Request: <paste your PR link here>
