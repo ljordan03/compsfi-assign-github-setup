@@ -19,4 +19,4 @@ Pull Request: <paste your PR link here>
 ## Part D - Deliverable D (Branch, PR, Issue)
 This section shows my Deliverable D work
 Branch created: 'add-intro' 
-Pull Request:<>
+Pull Request:<https://github.com/ljordan03/compsfi-assign-github-setup/pull/2>
