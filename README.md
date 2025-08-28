@@ -14,4 +14,9 @@ core.autocrlf=true
 ## Part C - Deliverable C (Authentication)
 used GitHub Codespaces due to restrictions
 successfully pushed commit from branch 'codespace-proof' on 08/23/2025
-Pull Request: <paste your PR link here>
+Pull Request: <https://github.com/ljordan03/compsfi-assign-github-setup/pull/1>
+---
+## Part D - Deliverable D (Branch, PR, Issue)
+This section shows my Deliverable D work
+Branch created: 'add-intro' 
+Pull Request:<https://github.com/ljordan03/compsfi-assign-github-setup/pull/2>
