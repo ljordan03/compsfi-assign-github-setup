@@ -23,6 +23,7 @@ Pull Request: <https://github.com/ljordan03/compsfi-assign-github-setup/pull/1>
 This section shows my Deliverable D work
 Branch created: 'add-intro' 
 Pull Request:<https://github.com/ljordan03/compsfi-assign-github-setup/pull/2>
+Issue: [3](https://github.com/ljordan03/compsfi-assign-github-setup/issues/3)
 ---
 ## Part E - Reflectiom
 What went smoothly: Setting my GitHub repo and making commits through codespaces.
